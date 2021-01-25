@@ -15,16 +15,8 @@
 # 「BlenderにおけるCityGML・CityJSONデータ活用検討」
 
 
-# Introduction
-本研究はCityGML・CityJsonデータをBlenderにインポートし、3D都市モデルをBlenderで使えるようにすること、またその過程で生じた現状の課題を整理したものである。
-本研究は東京都の「[都市の3Dデジタルマップの実装に向けた産学官ワーキンググループ](https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/12/02/01.html?fbclid=IwAR3-QD7h1PfpgQiEvRjgQy81s_sau1wuCHF6esaYg1R4WPRpnKeknvzTDdM)」の取り組みに関連するもので、これは東京都の基本計画における長期戦略の策定に向けた「[『未来の東京』戦略ビジョン](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/choki-plan/)」を推進する先導的事業である。
-なお、当初のゼミ論として「Blender-OSMアドオンを用いて3D地形データを作成する手順をマニュアル化する」ことを掲げていたが本研究はその前テーマからの移行である。
-
-# Methods
-
-# Result
-
-# Discussion
+## 本文
+https://github.com/furuhashilab/2020gsc_YosukeKanda/blob/master/graduationthesis.md
 
 ## 資料
 [プレゼン資料](https://docs.google.com/presentation/d/1GYH8xZmG5hdMV4ALacE_GjkqrAvXOtAq7JkklfuxvWw/edit#slide=id.gb424d91fe4_1_106)
