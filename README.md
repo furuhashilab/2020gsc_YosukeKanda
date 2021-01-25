@@ -1,6 +1,19 @@
 # 2020gsc_YosukeKanda
 神田洋輔の2020年度ゼミ論用レポジトリ
 
+
+青山学院大学　地球社会共生学部　地球社会共生学科
+
+神田 洋輔/Yosuke Kanda
+
+学籍番号 1A118061
+
+指導教員 古橋 大地 教授
+
+© Furuhashi Laboratory/Yosuke Kanda, CC BY 4.0
+
+
+
 ## ゼミ論概要
 
 ##### プレゼン資料
