@@ -16,7 +16,8 @@
 
 ## Abstract
 本研究はCityGML・CityJsonデータをBlenderにインポートし、3D都市モデルをBlenderで使えるようにすること、また現状での課題を整理したものである。
-本研究は東京都の「[都市の3Dデジタルマップの実装に向けた産学官ワーキンググループ]」(https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/12/02/01.html?fbclid=IwAR3-QD7h1PfpgQiEvRjgQy81s_sau1wuCHF6esaYg1R4WPRpnKeknvzTDdM)の取り組みに関連するもので、これは東京都の基本計画における長期戦略の策定に向けた「[『未来の東京』戦略ビジョン](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/choki-plan/)」を推進する先導的事業である。
+本研究は東京都の「都市の3Dデジタルマップの実装に向けた産学官ワーキンググループ]」(https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/12/02/01.html?fbclid=IwAR3-QD7h1PfpgQiEvRjgQy81s_sau1wuCHF6esaYg1R4WPRpnKeknvzTDdM)
+の取り組みに関連するもので、これは東京都の基本計画における長期戦略の策定に向けた「[『未来の東京』戦略ビジョン](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/choki-plan/)」を推進する先導的事業である。
 
 ## Introduction
 
