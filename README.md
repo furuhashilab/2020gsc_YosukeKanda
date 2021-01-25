@@ -19,7 +19,7 @@
 https://github.com/furuhashilab/2020gsc_YosukeKanda/blob/master/graduationthesis.md
 
 ## 資料
-[プレゼン資料](https://docs.google.com/presentation/d/1GYH8xZmG5hdMV4ALacE_GjkqrAvXOtAq7JkklfuxvWw/edit#slide=id.gb424d91fe4_1_106)
+[発表用資料](https://docs.google.com/presentation/d/1GYH8xZmG5hdMV4ALacE_GjkqrAvXOtAq7JkklfuxvWw/edit#slide=id.gb424d91fe4_1_106)
 
 [進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2020/projects/12) 
 
