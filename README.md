@@ -27,10 +27,8 @@
 
 ## 参考資料
 
-
-##### medium
-[](
-)
+[CityJSON](https://www.cityjson.org/?fbclid=IwAR2qGhwuOjjMN8NJ14gdr5Mdx_koj0eWfSU4FFag1oM0va7GIv1a65hd1SU)
+[Open Geospatial　Consortium](https://www.ogc.org/standards/citygml?fbclid=IwAR3tZ6tZ3Dawp9QfzEMWeXu_fIWNRnAjjT_9pSpY1Q5d0GhqqYZSEj7OToU)
 
 ## ゼミ論中間発表
 #### medium
