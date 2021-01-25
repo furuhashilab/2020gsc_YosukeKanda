@@ -28,6 +28,7 @@
 # Conclusion
 
 ## 発表資料
+https://docs.google.com/presentation/d/1GYH8xZmG5hdMV4ALacE_GjkqrAvXOtAq7JkklfuxvWw/edit#slide=id.gb424d91fe4_1_106
 
 
 ## 参考文献
