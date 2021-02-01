@@ -39,7 +39,7 @@ CityJSONへの変換ツール: citygml-tools : V1.4.2
 
 [進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2020/projects/12)  
 
-## 参考文献
+## 参考文献リスト
 
 [CityJSON](https://www.cityjson.org/?fbclid=IwAR2qGhwuOjjMN8NJ14gdr5Mdx_koj0eWfSU4FFag1oM0va7GIv1a65hd1SU)
 
