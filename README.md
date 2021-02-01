@@ -12,7 +12,7 @@
 
 © Furuhashi Laboratory/Yosuke Kanda, CC BY 4.0
 
-# 「blenderにおける3D都市モデル（CityGML・CityJSON）の活用検討
+# 「blenderにおける3D都市モデル（CityGML・CityJSON）の活用検討」
 
 
 
