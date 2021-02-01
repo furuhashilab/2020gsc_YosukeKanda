@@ -13,7 +13,7 @@
 © Furuhashi Laboratory/Yosuke Kanda, CC BY 4.0
 
 # Title
-# 「BlenderにおけるCityGML・CityJSON導入」
+# 「BlenderにおけるCityGML・CityJSON活用検討」
 
 
 # Introduction
