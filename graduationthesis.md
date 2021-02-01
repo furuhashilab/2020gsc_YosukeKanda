@@ -12,7 +12,8 @@
 
 © Furuhashi Laboratory/Yosuke Kanda, CC BY 4.0
 
-# 「BlenderにおけるCityGML・CityJSON導入」
+# Title
+## 「BlenderにおけるCityGML・CityJSON導入」
 
 
 # Introduction
@@ -21,8 +22,11 @@
 なお、当初のゼミ論として「Blender-OSMアドオンを用いて3D地形データを作成する手順をマニュアル化する」を設定していたが本研究はその前テーマからの移行となる。
 
 # Methods
-使用ソフト/ツール
+
+## 使用ソフト/ツール
+
 モデリングソフト： blender バージョン 2.90.1f 　
+
 CityJSONへの変換ツール: citygml-tools : V1.4.2    
 
 
