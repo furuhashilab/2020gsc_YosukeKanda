@@ -12,7 +12,8 @@
 
 © Furuhashi Laboratory/Yosuke Kanda, CC BY 4.0
 
-# 「BlenderにおけるCityGML・CityJSONデータ活用検討」
+# 「lenderにおける3D都市モデル（CityGML・CityJSON）の活用検討
+
 
 
 # ゼミ論本文
