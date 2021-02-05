@@ -35,6 +35,10 @@ CityJSONへの変換ツール: citygml-tools : V1.4.2
 
 
 # Discussion
+この研究を通じてblenderにおけるCityGMLデータの導入が可能であることが判明したが
+
+
+
 
 ## 資料
 [最終プレゼンテーションスライド（発表用資料）](https://docs.google.com/presentation/d/1GYH8xZmG5hdMV4ALacE_GjkqrAvXOtAq7JkklfuxvWw/edit#slide=id.gb424d91fe4_1_106)
