@@ -18,20 +18,21 @@
 
 
 # Introduction
-本研究はCityGML・CityJsonデータをBlenderにインポートし、3D都市モデルをBlenderで使えるようにすること、またその過程で生じた現状の課題を整理したものである。
+本研究はCityGMLをCityJsonデータに変換してBlenderにインポートし、3D都市モデルをBlenderで使えるようにすること、またその過程で生じた現状の課題を整理したものである。
 本研究は東京都の「[都市の3Dデジタルマップの実装に向けた産学官ワーキンググループ](https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/12/02/01.html?fbclid=IwAR3-QD7h1PfpgQiEvRjgQy81s_sau1wuCHF6esaYg1R4WPRpnKeknvzTDdM)」の取り組みに関連するもので、これは東京都の基本計画における長期戦略の策定に向けた「[『未来の東京』戦略ビジョン](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/choki-plan/)」を推進する先導的事業である。
 なお、当初のゼミ論として「Blender-OSMアドオンを用いて3D地形データを作成する手順をマニュアル化する」を設定していたが本研究はその前テーマからの移行となる。
 
 # Methods
 
 ### 使用ソフト/ツール
+CityGMLを直接blenderに読み込むことができなかったため公式の変換ツールである[Citygml-tools](https://github.com/citygml4j/citygml-tools/releases)をダウンロードして実行した。このツールを使用することでCityGMLとCityJSONの間で、またはその逆に自動的に変換可能になる。
 
 モデリングソフト： blender バージョン 2.90.1f 　
-
 CityJSONへの変換ツール: citygml-tools : V1.4.2    
 
 
 # Result
+
 
 # Discussion
 
