@@ -25,6 +25,7 @@ https://github.com/furuhashilab/2020gsc_YosukeKanda/blob/master/graduationthesis
 [進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2020/projects/12) 
 
 ## 参考文献リスト
+https://docs.google.com/spreadsheets/d/1G2p2ijyUKfr2laqqZTIiqUpl5gTyZ4cM2XD_ILLaLGA/edit?usp=sharing
 
 ## 中間発表
 #### medium
