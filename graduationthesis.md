@@ -33,7 +33,7 @@ CityJSONへの変換ツール: citygml-tools : V1.4.2
 
 # Result
 blenderに展開したJSONデータを見ると地形と建物のみが表示されており、
-![代替テキスト](file:///Users/yosukekanda/Desktop/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-02-05%2019.31.18.png "Den Haag")
+<img width="593" alt="file:///Users/yosukekanda/Desktop/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-02-05%2019.31.18.png">
 
 # Discussion
 この研究を通じてblenderにおけるCityGMLデータの導入が可能であることが判明したが、地形や建物だけでなくトンネル・橋・道路などの地物、信号や街灯、樹木などの様々な都市構成要素が読み込まれなかった。そもそも元のCityGMlデータのLoD（Level of Detail）品質が低く作成されているのか、blender側の設定等の問題なのか判明させる必要がある。また「LoD4のCityGMLがオープンデータとしての整備事例はほとんど見られなかった」（国土地理院資料より）ということからblenderにおいてLoD4程の品質で３D都市モデルを表示することは非常に困難な試みであると言えるかもしれない
