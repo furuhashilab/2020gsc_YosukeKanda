@@ -32,12 +32,14 @@ CityJSONへの変換ツール: citygml-tools : V1.4.2
 
 
 # Result
-blenderに展開したJSONデータを見ると地形と建物のみが表示されており、
+LoD（Level of Detail）の5段階のうち[Cities converted from CityGML](https://www.cityjson.org/datasets/#datasets-converted-from-citygml)から引用したサンプルデータで表現できた範囲はLoD2の詳細さまでであった。このうちRailwayのデータについてはLoD4に最も近い品質でblender上に表示することができた。
 
 
 
 # Discussion
-この研究を通じてblenderにおけるCityGMLデータの導入が可能であることが判明したが、地形や建物だけでなくトンネル・橋・道路などの地物、信号や街灯、樹木などの様々な都市構成要素が読み込まれなかった。そもそも元のCityGMlデータのLoD（Level of Detail）品質が低く作成されているのか、blender側の設定等の問題なのか判明させる必要がある。また「LoD4のCityGMLがオープンデータとしての整備事例はほとんど見られなかった」（国土地理院資料より）ということからblenderにおいてLoD4程の品質で３D都市モデルを表示することは非常に困難な試みであると言えるかもしれない。
+この研究を通じてblenderにおけるCityGMLデータの導入が可能であることが判明したが、地形や建物だけでなくトンネル・橋・道路などの地物、信号や街灯、樹木などの様々な都市構成要素を表示できる程のLoD（Level of Detail）のデータを入手することが困難だった。また、blender側の設定等もCityJSONの表示に適したものにすることでより精度の高い３D都市モデルの表示ができると考える。
+「LoD4のCityGMLがオープンデータとしての整備事例はほとんど見られなかった」（国土地理院資料より）の内容からblenderにおいてLoD4程の品質で３D都市モデルを表示することは困難な試みであると言えるかもしれない。
+
 
 
 
