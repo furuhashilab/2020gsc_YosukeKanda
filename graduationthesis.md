@@ -32,7 +32,7 @@ CityJSONへの変換ツール: citygml-tools : V1.4.2
 
 
 # Result
-LoD（Level of Detail）の5段階のうち[Cities converted from CityGML](https://www.cityjson.org/datasets/#datasets-converted-from-citygml)から引用したサンプルデータで表現できた範囲はLoD2の詳細さまでであった。このうち「Railway」のデータについてはLoD3の水準に近い品質でblender上に表示することができた。
+LoD（Level of Detail）の5段階のうち[Cities converted from CityGML](https://www.cityjson.org/datasets/#datasets-converted-from-citygml)から引用したサンプルデータで表現できた都市モデルはLoD2の詳細さまでであった。このうち「Railway」のデータについてはLoD3の段階であるが都市全体のデータではない。
 <img width="427" alt="" src="">
 
 
